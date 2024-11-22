@@ -5,6 +5,7 @@ import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
 
 function ProjectCards(props) {
+  console.log(props)
   return (
     <Card className="project-card-view">
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
@@ -19,7 +20,6 @@ function ProjectCards(props) {
         </Button>
         {"\n"}
         {"\n"}
-
         {!props.isBlog && props.demoLink && (
           <Button
             variant="primary"

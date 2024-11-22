@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Agriculture Marketting"
               description="Agriculture Marketing is a basic PHP-based platform connecting farmers and traders. It enables easy product listing and inquiries, providing a simple and accessible solution for local agricultural trade."
-              ghLink="https://github.com/jatinkumar022/agriculture-marketing"
+              ghLink="https://github.com/jatinkumar022/agriculture-marketing/"
 
             />
           </Col>
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Nexura - Ecommerce"
               description="Nexura is a React and Firebase-powered e-commerce platform tailored for selling shoes. It offers seamless product browsing, secure transactions, and real-time data management for a smooth shopping experience."
-              ghLink="https://github.com/jatinkumar022/nexura"
-              demoLink="nexura-nine.vercel.app"
+              ghLink="https://github.com/jatinkumar022/nexura/"
+              demoLink="https://nexura-nine.vercel.app/"
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Finance Insight"
               description="Expense Tracker is a React and Firebase-based application that helps users manage their finances. It allows users to track income, expenses, and set budgets, with real-time data syncing and secure storage."
-              ghLink="https://github.com/jatinkumar022/FinanceInsight"
-              demoLink="finance-insight-psi.vercel.app"
+              ghLink="https://github.com/jatinkumar022/FinanceInsight/"
+              demoLink="https://finance-insight-psi.vercel.app/"
             />
           </Col>
 
@@ -72,7 +72,7 @@ function Projects() {
               title="Advanced Task-Manager"
               description="UAdvanced Task-Manager is a React app for organizing and tracking tasks with features like deadlines and prioritization."
               ghLink="https://github.com/jatinkumar022/new-task"
-              demoLink="new-task-weld.vercel.app" />
+              demoLink="https://new-task-weld.vercel.app/" />
           </Col>
 
           <Col md={4} className="project-card">
