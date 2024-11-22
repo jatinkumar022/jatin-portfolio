@@ -524,8 +524,14 @@ button:focus {
 
 .card-img-top {
   padding: 20px !important;
-  opacity: 0.8 !important;
+  opacity: 0.9 !important;
   border-radius: 10px !important;
+}
+
+.card-img-top:hover {
+
+  opacity: 1 !important;
+
 }
 
 .blog-img {
