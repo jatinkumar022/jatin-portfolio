@@ -70,7 +70,7 @@ function Projects() {
               imgPath={Task}
               isBlog={false}
               title="Advanced Task-Manager"
-              description="UAdvanced Task-Manager is a React app for organizing and tracking tasks with features like deadlines and prioritization."
+              description="Advanced Task-Manager is a React app for organizing and tracking tasks with features like deadlines and prioritization."
               ghLink="https://github.com/jatinkumar022/new-task"
               demoLink="https://new-task-weld.vercel.app/" />
           </Col>
@@ -87,8 +87,8 @@ function Projects() {
             <ProjectCard
               imgPath={BG}
               isBlog={false}
-              title="Weather App"
-              description="Weather is a React app that shows real-time weather updates and forecasts based on user search for a specific location."
+              title="Background Removal"
+              description="Background removal is type of website that cut and remove edge to edge background and give sharp output"
               ghLink="https://github.com/jatinkumar022/removebackground"
               demoLink="https://removebackground-iota.vercel.app/"
             />
